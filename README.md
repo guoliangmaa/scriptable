@@ -1,2 +1,2 @@
-# scriptable
-share some widgets designed by myself in Scriptable APP
+# Scriptable
+Share some widgets designed by myself in Scriptable APP.
